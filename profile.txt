@@ -1,3 +1,0 @@
-Python is my favorite programming language because it is simple and easy to learn. It has a clean syntax that makes
-coding faster and easier to understand. Python is widely used in web development, automation, data science, and 
-artificial intelligence. It is a great language for beginners as well as professional developers.
