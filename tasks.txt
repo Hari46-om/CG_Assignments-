@@ -1,5 +1,4 @@
 My Tasks
 1. Study Git
 2. Complete assignment
-3. Review notes
-4. commit 
+3. Watch git Tutorial
